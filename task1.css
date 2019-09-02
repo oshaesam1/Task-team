@@ -1,0 +1,23 @@
+body{
+    background-color:#D2A5FF;
+    background-image: url(acrylic-art-artistic-1083617.jpg);
+    background-size:100% 100% ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%
+}
+h1,h2{
+    color: #ec53ff
+}
+
+li{
+    font-size: 200%;
+    color: white;
+}
+
+img{
+    border-radius: 50%;
+    height: 20%;
+    width: 15%;
+}
